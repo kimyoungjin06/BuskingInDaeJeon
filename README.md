@@ -4,7 +4,7 @@
 ### Member
 이룸(V), 김영진(V,G,Pe)
 
-*Vocal, Guitar, Percussion, Piano*
+**V***ocal*, **G***uitar*, **Pe***rcussion*, **Pi***ano*
 
 ## Equipment
 Guitar (김영진, 크래프터, 탑백솔리드, 픽업 없음)
